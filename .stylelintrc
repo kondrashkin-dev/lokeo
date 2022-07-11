@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "stylelint-config-rational-order",
+    "stylelint-plugin-stylus/standard",
+    "stylelint-config-prettier"
+  ]
+}
